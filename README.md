@@ -1,3 +1,3 @@
 # leetcode
 
-Record mine coding on LeetCode OJ
+Record my coding on LeetCode OJ
